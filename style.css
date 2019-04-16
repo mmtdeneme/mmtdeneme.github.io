@@ -16,7 +16,7 @@ body{
   width: device-width ;
   zoom: 1.0 ;
 }
-.shade{
+/*.shade{
 	background-attachment: fixed;
 	border: 0px;
 	width: 100%;
@@ -27,7 +27,7 @@ body{
 	display: flex;
 	flex-direction: column;
 	
-}
+}*/
 .icerik{
 	margin-top: 100px;
 	display: flex;
